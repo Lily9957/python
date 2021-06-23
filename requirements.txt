@@ -1,6 +1,5 @@
 Flask
-pandas 
-json
+pandas
 plotly
 csv
 re
