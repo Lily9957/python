@@ -1,6 +1,4 @@
 Flask
 pandas
 plotly
-csv
 re
-operator
