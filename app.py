@@ -108,7 +108,7 @@ def cb():
    
 @app.route('/chart')
 def index():
-	return render_template('chartsajax.html',  graphJSON=gm())
+	return render_template('index1.html',  graphJSON=gm())
 
 def gm(country='United Kingdom'):
 	df = pd.DataFrame(px.data.gapminder())
